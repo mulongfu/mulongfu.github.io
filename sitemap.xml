@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mulongfu.github.io/categories/index.html</loc>
+    <loc>https://mulongfu.github.io/googlec3847c75c1ad4f7a.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
@@ -39,6 +39,15 @@
   
   <url>
     <loc>https://mulongfu.github.io/archives/index.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mulongfu.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
