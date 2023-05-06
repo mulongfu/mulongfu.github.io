@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mulongfu.github.io/googlec3847c75c1ad4f7a.html</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mulongfu.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mulongfu.github.io/2023/04/28/Python%E8%88%87%E5%B7%A5%E6%A5%AD%E5%84%80%E5%99%A8-%E9%80%8F%E9%81%8EModbus%20RTU%20RS485/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -29,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://mulongfu.github.io/googlec3847c75c1ad4f7a.html</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mulongfu.github.io/about/index.html</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>https://mulongfu.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mulongfu.github.io/tags/index.html</loc>
     
     <lastmod>2023-05-06</lastmod>
     
